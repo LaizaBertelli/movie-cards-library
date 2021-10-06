@@ -1,7 +1,7 @@
 // implement MovieList component here
 import React from 'react';
+import PropTypes from 'prop-types';
 import MovieCard from './MovieCard';
-import PropType from 'prop-types';
 
 class MovieList extends React.Component {
   render() {
@@ -15,5 +15,14 @@ class MovieList extends React.Component {
     );
   }
 }
+
+// Se nenhum valor for passado para a props o default usado na validação será um array de objetos
+MovieList.defaultProps = {
+  movies: [{}],
+};
+
+MovieList.propTypes = {
+  movies: PropTypes.arrayOf(PropTypes.object),
+};
 
 export default MovieList;
