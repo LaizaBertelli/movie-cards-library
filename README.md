@@ -13,8 +13,8 @@ O app exibe uma galeria de filmes em formato de cards que contém o nome, descri
 
 # Tecnologias
 
-<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<a href="https://pt-br.reactjs.org/docs/getting-started.html" ><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="https://devdocs.io/css/" <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 
 <br />
 <br />
