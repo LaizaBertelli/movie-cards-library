@@ -8,16 +8,12 @@ Movie Cards Library é um projeto que desenvolvi durante o módulo de Front-end 
 
 O app exibe uma galeria de filmes em formato de cards que contém o nome, descrição, imagem e rating de cada filme. Neste projeto utilizei React para o desenvolvimento e CSS para a estilização.
 
-<br />
-<br />
-
 # Tecnologias
 
 <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://devdocs.io/css/" ><img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 
-<br />
-<br />
+---
 
 # Como Usar
 
