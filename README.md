@@ -26,13 +26,16 @@ Este projeto está hospedado no seguinte domínio: [ link ], você pode acessá-
 Caso queira acessar o código direto em sua máquina, você pode clonar o repositório. Para isso, siga os passos a seguir:
 
 1. Clone o repositório
-      git clone git@github.com:LaizaBertelli/movie-cards-library.git
+
+            git clone git@github.com:LaizaBertelli/movie-cards-library.git
 
 2. Entre no diretório do projeto e instale as dependências
-      cd movie-cards-library && npm install
+
+            cd movie-cards-library && npm install
 
 3. Inicie o projeto ou abra-o em seu editor de preferência
-      npm start
+
+            npm start
 
 ---
 <br />
